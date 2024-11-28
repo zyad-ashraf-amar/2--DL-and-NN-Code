@@ -1,0 +1,12 @@
+https://www.kaggle.com/datasets/budincsevity/szeged-weather/code?datasetId=634&sortBy=voteCount
+
+https://www.kaggle.com/code/mathchi/2-lr-mlr-pr-dt-rf-predict-data-weather-in-szeged
+
+https://www.kaggle.com/code/salmamaamouri/weather-prediction-regression-neural-model
+
+https://www.kaggle.com/code/oleksiimartusiuk/weather-in-sezged-eda
+
+https://www.kaggle.com/code/shahdhassan01/multiple-linear-regression-model-weather-history
+
+https://www.kaggle.com/code/meisammalekmohammadi/weatherhistory-eda-lr
+
